@@ -19,7 +19,7 @@ Contribuições
 
 Sinta-se livre para criar issues ou pull-requests se você encontrar qualquer problema na tradução ou erro em inglês na versão principal.
 
-**Por favor leia [CONTRIBUTING.md](translations/pt-BR/CONTRIBUTING.md) antes de enviar qualquer alteração.**
+**Por favor leia [CONTRIBUTING.md](CONTRIBUTING.md) antes de enviar qualquer alteração.**
 
 ![image](http://oi58.tinypic.com/23upobq.jpg)
 
